@@ -7,7 +7,7 @@ import {FiLayers} from 'react-icons/fi'
 import {BsClipboardData} from 'react-icons/bs'
 import {BiLineChart} from 'react-icons/bi'
 import { SiAutodesk } from "react-icons/si"
-import { GiAbstract017 } from "react-icons/gi"
+
 import {SiWolframmathematica} from 'react-icons/si'
 import {DiHtml5} from 'react-icons/di'
 import {DiCss3} from 'react-icons/di'
@@ -109,10 +109,10 @@ export const Tskill = () => {
                         </div>
                     </article>
                     <article className='Tskil_Iindistrial_details'>
-                        <GiAbstract017/>
+                        <AiFillProject/>
                         <div>
-                        <h4>SolidWorks</h4>
-                        <small className='text-light'>Basic</small>
+                        <h4>UiPath</h4>
+                        <small className='text-light'>Intermediate</small>
                         </div>
                     </article>
                     <article className='Tskil_Iindistrial_details'>

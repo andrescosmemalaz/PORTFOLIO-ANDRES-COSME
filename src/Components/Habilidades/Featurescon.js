@@ -2,8 +2,8 @@ export const data = [
     {
     id: 1,
     image: "https://img.icons8.com/ios/50/000000/question--v1.png",
-    title: "Problem solving",
-    desc: "With the skills and knowledge to make systems and processes more efficient, with a natural problem-solving ability on the job or project. With the ability to detect various problems, analyse their nature and causes, design ways to solve them and implement these ways. ",
+    title: "Problem Solving and Process Improvement",
+    desc: "With skills and knowledge to make systems and processes more efficient, with a natural ability to solve problems on the job or project. With the ability to detect various problems, analyze their nature and causes, design ways to solve them with cutting-edge technology and put them into practice. ",
     },
     {
     id: 2,
