@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/PORTFOLIO-ANDRES-COSME/static/css/main.63a9a55e.css",
+    "main.js": "/PORTFOLIO-ANDRES-COSME/static/js/main.4bf27c7b.js",
+    "static/js/787.c280ff1e.chunk.js": "/PORTFOLIO-ANDRES-COSME/static/js/787.c280ff1e.chunk.js",
+    "static/media/portfolio-11.png": "/PORTFOLIO-ANDRES-COSME/static/media/portfolio-11.c2bcbd2477c623f33561.png",
+    "static/media/portfolio-10.png": "/PORTFOLIO-ANDRES-COSME/static/media/portfolio-10.aafc17594fb35006e88a.png",
+    "static/media/portfolio-03.jpeg": "/PORTFOLIO-ANDRES-COSME/static/media/portfolio-03.6636e80fe28e93087613.jpeg",
+    "static/media/portfolio-09.png": "/PORTFOLIO-ANDRES-COSME/static/media/portfolio-09.5282222d03726facf755.png",
+    "static/media/portfolio-04.jpg": "/PORTFOLIO-ANDRES-COSME/static/media/portfolio-04.cb9141f8dbc861e583ec.jpg",
+    "static/media/slider-1.png": "/PORTFOLIO-ANDRES-COSME/static/media/slider-1.90a42ab8229b6e75745e.png",
+    "static/media/portfolio-01.JPG": "/PORTFOLIO-ANDRES-COSME/static/media/portfolio-01.7cfd34c12abed1b2707e.JPG",
+    "static/media/portfolio-05.JPG": "/PORTFOLIO-ANDRES-COSME/static/media/portfolio-05.bad1e804bbf6f499fcdf.JPG",
+    "static/media/portfolio-02.JPG": "/PORTFOLIO-ANDRES-COSME/static/media/portfolio-02.6fb7f7fc69e47132a2d0.JPG",
+    "static/media/skill2.png": "/PORTFOLIO-ANDRES-COSME/static/media/skill2.d8944c353e3897f26947.png",
+    "static/media/skill1.png": "/PORTFOLIO-ANDRES-COSME/static/media/skill1.addbe4a48cf6e49ab2dd.png",
+    "static/media/portfolio-08.JPG": "/PORTFOLIO-ANDRES-COSME/static/media/portfolio-08.bde5544b3326f3329d77.JPG",
+    "static/media/skill3.png": "/PORTFOLIO-ANDRES-COSME/static/media/skill3.2bef200d1f0dccfe14ab.png",
+    "index.html": "/PORTFOLIO-ANDRES-COSME/index.html",
+    "main.63a9a55e.css.map": "/PORTFOLIO-ANDRES-COSME/static/css/main.63a9a55e.css.map",
+    "main.4bf27c7b.js.map": "/PORTFOLIO-ANDRES-COSME/static/js/main.4bf27c7b.js.map",
+    "787.c280ff1e.chunk.js.map": "/PORTFOLIO-ANDRES-COSME/static/js/787.c280ff1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63a9a55e.css",
+    "static/js/main.4bf27c7b.js"
+  ]
+}
